@@ -9,6 +9,8 @@ public class AssignmentClass {
 		demo1();
 		demo2();
 		demo3();
+		Test2Class.Demo4();
+		
 		
 	}
 		
