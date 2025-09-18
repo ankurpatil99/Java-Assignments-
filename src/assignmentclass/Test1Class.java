@@ -10,9 +10,6 @@ public class Test1Class {
 			AssignmentClass.demo1();
 			AssignmentClass.demo3();
 		
+		}
+
 	}
-
-	
-
-
-}

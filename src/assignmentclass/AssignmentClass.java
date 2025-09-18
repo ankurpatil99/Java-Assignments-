@@ -10,36 +10,28 @@ public class AssignmentClass {
 		demo2();
 		demo3();
 		Test2Class.Demo4();
-		
-		
+	
 	}
-		
+	//we can call this method in any of the Class
 		public static void demo1()
 		{
 		
-		int a=10;
-		int b=20;
+			int a=10;
+			int b=20;
 		
-		System.out.println(10+20);
+			System.out.println(10+20);
 		}
-		
-		
-		public static void demo2()
-		{
-		
-		int a=10;
-		int b=20;
-		
-		System.out.println(30+20);
-		}
-		
-		public static void demo3()
-		{
-		
-		
-		
-		System.out.println("Addition of two numbers is addition");
-		}
+			//we can call this method in any of the Class
+				public static void demo2()
+				{
+					System.out.println(30+20);
+				}
+				//we can call this method in any of the Class
+						public static void demo3()
+						{
+				
+							System.out.println("Addition of two numbers is addition");
+						}
 }
 
 

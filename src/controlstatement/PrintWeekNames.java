@@ -7,10 +7,10 @@ public class PrintWeekNames {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		//If else ladder example. we need to change the Week number manually here
+		/*If else ladder example. we need to change the Week number manually here
+		to take a input form the user need to use scanner class and need to create a object of that class to reserve the Space in memory
+		here i have created myscn  object which stores the input value in number which entered by user*/
 		
-		//to take a input form the user need to use scanner class and need to create a object of that class to reserve the Space in memory
-		//here i have created myscn  object which stores the input value in number which entered by user
 		Scanner mysca=new Scanner(System.in);
 		System.out.print("Enter a number between 1 to 7"+"\n");
 		

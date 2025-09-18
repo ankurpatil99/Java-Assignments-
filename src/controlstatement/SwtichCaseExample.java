@@ -7,7 +7,7 @@ public class SwtichCaseExample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			
-		
+		/*  the  switch statement executes one statement from multiple conditions. If it match with the Case then it print the statements inside the Case*/
 		Scanner myscn=new Scanner(System.in);
 		System.out.print("Enter the Day of the week in Number"+"\n");
 		int weekNum=myscn.nextInt();

@@ -12,8 +12,7 @@ public class VariablesExample {
 		
 		double db1=12.123344664545441;
 		System.out.println("Value of Double  Data Type is "+db1);
-		
-		
+				
 		char ch1 ='A';
 		System.out.println("Value of Char Data Type is "+ch1);
 		
@@ -29,13 +28,7 @@ public class VariablesExample {
 		long ln=1234567891011111443l;
 		System.out.println("Value of Long  Data Type is "+ln);
 		
-		
-		
-		
-		
-	
-		
-		
+			
 	}
 
 }
