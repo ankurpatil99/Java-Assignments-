@@ -19,6 +19,7 @@ public class SwitchCaseExample2 {
 			/*If user Enter input as "January" it will Execute the first Statement and then Break the Execution after this 
 		    Case as the case it matched with Input Value. In below Program once it got the Input value matched with the case it get breaks and stop the Execution
 		    and it no case i matched then default case is execuited*/
+			
 			case "January": System.out.println("Its a First Month January");
 				break;
 				
